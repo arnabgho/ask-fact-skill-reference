@@ -1,0 +1,4 @@
+requests
+ask-sdk-runtime	
+ask_sdk_core
+ask_sdk_model
